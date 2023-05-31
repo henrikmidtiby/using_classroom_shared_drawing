@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "Yihui Xie"
+title: "Using Classroom Shared Drawing"
+author: "Henrik Skov Midtiby"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -11,6 +11,23 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
 ---
+
+# Tutorial for Classroom Shared Drawing
+
+Follow these steps:
+
+1. Log on to the Classroom Shared Drawing system with your credentials on this site: <https://tekvideo.sdu.dk/draw>
+1. Open the *teacher view*
+1. Click on *Prepare teaching* - *Choose File* (TODO: find a coordinate system to use for this)
+    - Crop image
+1. Click on *Actions* - *Push private canvas to students*
+1. Click on *Navigation* - *Open page to share with students*
+    - You should now be able to see the student view, displaying the image that you uploaded earlier.
+1. Draw something on the student canvas
+1. Observe that the drawing also appears on the teacher view.
+
+
+# 
 
 # Prerequisites
 
