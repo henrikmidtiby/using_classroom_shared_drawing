@@ -1,0 +1,2 @@
+montage: 
+	convert +append csd_template_linear_functions.png csd_answer_linear_functions.png csd_template_and_answer_linear_functions.png
