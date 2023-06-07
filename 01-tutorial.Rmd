@@ -1,0 +1,40 @@
+# Tutorial for Classroom Shared Drawing {#tutorial}
+
+This tutorial will demonstrate how to use the Classroom Shared Drawing
+system to push a visual question to a class, invite students into the class 
+and then see how the students are answering the visual question.
+
+The first step is to log on to the system. 
+To do this head over to <https://tekvideo.sdu.dk/draw/> and use the credentials
+that you have obtained for the system.
+You should now see this screen.
+
+![](pic/tutorial/005_logged_in.png)
+
+The next step is to upload an image from your computer to use as a template for 
+the students drawing. Click on *prepare question* and select the image you want 
+to use.
+
+![](pic/tutorial/010_prepare_question.png)
+At this point you have to choose which part of the image to use, 
+in this case click on the *crop* button.
+
+![](pic/tutorial/015_crop_image.png)
+
+You should now see this screen:
+![](pic/tutorial/020_ready_to_push.png)
+
+Here we have the option of checking whether the image is as we want before 
+pushing it out to the students.
+To push the image click on the *push private canvas to students* button in the 
+*actions* menu.
+
+![](pic/tutorial/025_pushing.png)
+
+
+1. Click on *Navigation* - *Open page to share with students*
+    - You should now be able to see the student view, displaying the image that you uploaded earlier.
+1. Draw something on the student canvas
+1. Observe that the drawing also appears on the teacher view.
+
+
