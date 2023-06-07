@@ -21,20 +21,39 @@ in this case click on the *crop* button.
 
 ![](pic/tutorial/015_crop_image.png)
 
-You should now see this screen:
+You should now see this screen, which shows the content of your private canvas 
+that you will push to your class in the next step. 
+If you are not satisfied with the content of the canvas you can redo the 
+upload new image process.
 ![](pic/tutorial/020_ready_to_push.png)
 
-Here we have the option of checking whether the image is as we want before 
-pushing it out to the students.
-To push the image click on the *push private canvas to students* button in the 
-*actions* menu.
+The next step is to push the image to the class, to do that click on the 
+*push private canvas to students* button in the *actions* menu.
 
 ![](pic/tutorial/025_pushing.png)
 
+The image has now been made available to the students in the class. 
+To open the view in which the students can draw on top of the image, 
+click the *Open page to share with students* button in the *Navigation* menu.
+By clicking this button a page is opened (in this case 
+<https://tekvideo.sdu.dk/draw/student/test5/default>) in a separate tab.
+You can now share the url to this site with your class.
 
-1. Click on *Navigation* - *Open page to share with students*
-    - You should now be able to see the student view, displaying the image that you uploaded earlier.
-1. Draw something on the student canvas
-1. Observe that the drawing also appears on the teacher view.
+![](pic/tutorial/030_open_student_page.png)
+The student page that have been opened looks like this. 
+Here the students can draw their answers to the posed question.
+![](pic/tutorial/035_student_page.png)
+To make it easier to see the student answers, the *Private canvas* can be hidden.
+
+![](pic/tutorial/040_hide_private_canvas.png)
+The shared canvas is now shown as the top most element. 
+This is here that all the student answers will be aggregated.
+
+![](pic/tutorial/045_private_canvas_is_now_hidden.png)
+Here we have switched back to the student view and started to draw an
+answer to the posed question.
+![](pic/tutorial/050_student_draws_an_answer.png)
+In the teacher view, we can see the drawn answer immediately.
+![](pic/tutorial/055_teacher_sees_student_answer.png.png)
 
 
