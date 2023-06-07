@@ -28,6 +28,4 @@ a coordinate system that was supplied as a template.
 ![Example template and answer, where students were asked to sketch two linear equations.](pic/csd_template_and_answer_linear_functions.png)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GxKCtRBw4jQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 

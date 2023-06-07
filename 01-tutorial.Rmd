@@ -54,6 +54,6 @@ Here we have switched back to the student view and started to draw an
 answer to the posed question.
 ![](pic/tutorial/050_student_draws_an_answer.png)
 In the teacher view, we can see the drawn answer immediately.
-![](pic/tutorial/055_teacher_sees_student_answer.png.png)
+![](pic/tutorial/055_teacher_sees_student_answer.png)
 
 
