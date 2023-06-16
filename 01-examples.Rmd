@@ -1,0 +1,25 @@
+# Examples of questions and answers
+
+Here is a small collection of graphical questions and answers obtained with the 
+Classroom Shared Drawing system.
+
+## Linear equations
+
+![](pic/examples/linear_equations_template.png)
+
+![](pic/examples/linear_equations_answers.png)
+
+
+## Exponential decay
+
+![](pic/examples/exponential_decay_template.png)
+
+![](pic/examples/exponential_decay_answers.png)
+
+
+## Logistic growth
+
+![](pic/examples/logistic_growth_template.png)
+
+![](pic/examples/logistic_growth_answers.png)
+
