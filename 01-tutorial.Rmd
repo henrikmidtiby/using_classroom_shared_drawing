@@ -1,4 +1,4 @@
-# Tutorial for Classroom Shared Drawing {#tutorial}
+# Tutorial {#tutorial}
 
 This tutorial will demonstrate how to use the Classroom Shared Drawing
 system to push a visual question to a class, invite students into the class 
